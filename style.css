@@ -8,8 +8,7 @@ h1{
 }
 
 .footer{
-margin-top: auto;    
-justify-items: center;
+position: relative; bottom: 0;
 text-align: center;
 }
 
@@ -26,6 +25,7 @@ margin-top: 10px;
 margin: 10px;
 margin-top: 10px;
 }
+
 
 
 
